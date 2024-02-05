@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .LIBRARY {
+    margin-top: 20px;
+  }
+  
+  .sub-heading {
+    color: #333;
+  }
+  
+  .libraries {
+    width: 30%;
+    margin: 10px;
+    display: inline-block;
+  }
+  
+  .film-details {
+    margin-top: 10px;
+  }
